@@ -10,6 +10,11 @@ A modern, clean, and responsive **Tic Tac Toe** game built with **React**, power
 
 ---
 
+🚀 **Live Demo:** [Click here to play the game](https://tic-tac-toe-game-ten-eta.vercel.app/)
+
+
+---
+
 ## 🚀 Features
 
 - ✨ Beautiful, modern UI using Tailwind CSS  
