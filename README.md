@@ -1,4 +1,9 @@
-# 🎮 Tic Tac Toe Game 
+# Tic Tac Toe Game 🎮
+
+![React](https://img.shields.io/badge/React-17.0.2-blue)
+![Vite](https://img.shields.io/badge/Vite-4.0.0-green)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.2-blueviolet)
+
 
 A modern, clean, and responsive **Tic Tac Toe** game built with **React**, powered by **Vite** for lightning-fast development, and styled beautifully using **Tailwind CSS**.
 
